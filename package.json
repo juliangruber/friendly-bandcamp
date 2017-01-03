@@ -1,0 +1,9 @@
+{
+  "name": "friendly-bandcamp",
+  "version": "0.0.0",
+  "license": "MIT",
+  "repository": "juliangruber/friendly-bandcamp",
+  "dependencies": {
+    "node-bandcamp": "0.0.6"
+  }
+}
